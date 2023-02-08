@@ -1,1 +1,11 @@
-@import '~bootstrap/scss/bootstrap'
+@import '~bootstrap/scss/bootstrap';
+
+
+div.container {
+    background-color: red;
+    height: 100px;
+}
+
+button {
+    padding: 2rem;
+}

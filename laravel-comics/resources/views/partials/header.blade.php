@@ -1,4 +1,7 @@
 <header>
-    <h1>Site title</h1>
+    <div class="container">
+        <button class="bg">cliccaa</button>
+
+    </div>
 
 </header>
